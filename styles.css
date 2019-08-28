@@ -1,0 +1,15 @@
+body {background-color: black;
+  color: purple;
+  font-family: inherit;
+  text-align: center;
+}
+
+h1  {
+  color: MidnightBlue;
+  font-family: fantasy;
+  text-align: center;
+}
+#banner {
+  background-color: white;
+}
+.content{color:SlateBlue;}
